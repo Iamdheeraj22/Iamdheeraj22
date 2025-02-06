@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Dheeraj 👋
 
-<!--
-**Iamdheeraj22/Iamdheeraj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time Mobile Application Developer specializing in Flutter development and Android Native Development. With a strong passion for building efficient and scalable mobile applications, I am proficient in various technologies and tools that enhance the mobile development experience.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 **Previous Position:** Mobile Application Developer at **Dotsquares Technologies, Jaipur**
+- 🌱 **Learning:** Advanced Flutter and Android development techniques
+- 👯 **Looking to Collaborate on:** Mobile app projects and open-source contributions
+- 💬 **Ask me about:** Flutter, Android, Firebase, and API integrations
+- 📫 **Contact me at:** [dheerajprajapati334@gmail.com]
+- ⚡ **Fun fact:** I enjoy playing chess and exploring new technologies
+
+## 🛠️ Skills and Expertise
+
+### Languages and Frameworks:
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Development Tools:
+- ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+
+### API Integrations:
+- ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- ![Third-Party APIs](https://img.shields.io/badge/Third--Party%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+- ![REST APIs](https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge&logo=api&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdheeraj22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdheeraj22&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+<a href="www.linkedin.com/in/iamdheeraj24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/iamdheeraj20" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://dev.to/yourdevtohandle" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+</a>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+⭐️ From [Iamdheeraj22](https://github.com/Iamdheeraj22)
