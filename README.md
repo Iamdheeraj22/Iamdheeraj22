@@ -14,23 +14,32 @@ I'm a full-time Mobile Application Developer specializing in Flutter development
 ## 🛠️ Skills and Expertise
 
 ### Languages and Frameworks:
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
 
 ### Development Tools:
-- ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-- ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="CI/CD Pipelines">
+</p>
 
 ### API Integrations:
-- ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-- ![Third-Party APIs](https://img.shields.io/badge/Third--Party%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-- ![REST APIs](https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge&logo=api&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs">
+  <img src="https://img.shields.io/badge/Third--Party%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="Third-Party APIs">
+  <img src="https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
+</p>
 
 ## 📈 GitHub Stats
 
