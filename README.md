@@ -45,24 +45,3 @@ I'm a full-time Mobile Application Developer specializing in Flutter development
 
 ![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdheeraj22&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdheeraj22&layout=compact&theme=radical)
-
-## 🔗 Connect with Me
-
-<a href="www.linkedin.com/in/iamdheeraj24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://x.com/iamdheeraj20" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="https://dev.to/yourdevtohandle" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
-</a>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-⭐️ From [Iamdheeraj22](https://github.com/Iamdheeraj22)
