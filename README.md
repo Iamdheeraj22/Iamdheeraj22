@@ -4,7 +4,7 @@ I'm a full-time Mobile Application Developer specializing in Flutter development
 
 ## 🚀 About Me
 
-- 🏢 **Previous Position:** Mobile Application Developer at **Dotsquares Technologies, Jaipur**
+- 🏢 **Previous Position:** Mobile Application Developer at **Elsner Technologies, Ahmedabad**
 - 🌱 **Learning:** Advanced Flutter and Android development techniques
 - 👯 **Looking to Collaborate on:** Mobile app projects and open-source contributions
 - 💬 **Ask me about:** Flutter, Android, Firebase, and API integrations
