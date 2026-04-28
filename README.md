@@ -4,10 +4,8 @@ I'm a full-time Mobile Application Developer specializing in Flutter development
 
 ## 🚀 About Me
 
-- 🏢 **Current Position:** Mobile Application Developer at **Elsner Technologies, Ahmedabad**
 - 🌱 **Learning:** Advanced Flutter and Android development techniques
 - 👯 **Looking to Collaborate on:** Mobile app projects and open-source contributions
-- 💬 **Ask me about:** Flutter, Android, Firebase, and API integrations
 - 📫 **Contact me at:** [dheerajprajapati334@gmail.com]
 - ⚡ **Fun fact:** I enjoy playing chess and exploring new technologies
 
